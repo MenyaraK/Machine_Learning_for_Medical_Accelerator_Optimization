@@ -40,14 +40,14 @@ To set up this project, follow these steps:
     pip install -r requirements.txt
 
 ## Usage
-To run this project, follow these steps:
+To run this project, follow these steps: 
 - Run the main script:python main.py
 
 ## Structure
-data/: Directory for dataset storage.
-models/: Directory where trained models are saved.
-src/: Python scripts for loading data, preprocessing, training, and testing.
-outputs/: Storage for outputs like plots and results text files.
+- data/: Directory for dataset storage.
+- models/: Directory where trained models are saved.
+- src/: Python scripts for loading data, preprocessing, training, and testing.
+- outputs/: Storage for outputs like plots and results text files.
 
 
 ## Contributions and Acknowledgments
