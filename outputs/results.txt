@@ -1,0 +1,68 @@
+
+Data: {'Max_X': 547.8666666666667, 'FiftyPercent_X': 312.06666666666666, 'TenPercent_X': 61.94733333333334}
+Prediction: [6.6679]
+Actual: 6.75
+
+Data: {'Max_X': 611.6733333333333, 'FiftyPercent_X': 256.33, 'TenPercent_X': 39.9906}
+Prediction: [7.157997]
+Actual: 7.3
+
+Data: {'Max_X': 812.1133333333333, 'FiftyPercent_X': 457.5866666666666, 'TenPercent_X': 78.23233333333333}
+Prediction: [8.776028]
+Actual: 8.8
+
+Data: {'Max_X': 548.22, 'FiftyPercent_X': 276.8966666666667, 'TenPercent_X': 46.46133333333336}
+Prediction: [6.6211596]
+Actual: 6.55
+
+Data: {'Max_X': 576.3166666666667, 'FiftyPercent_X': 329.0366666666667, 'TenPercent_X': 74.494}
+Prediction: [6.93705]
+Actual: 6.8
+
+Data: {'Max_X': 573.6966666666667, 'FiftyPercent_X': 273.21, 'TenPercent_X': 46.92066666666667}
+Prediction: [6.840862]
+Actual: 6.95
+
+Data: {'Max_X': 471.91, 'FiftyPercent_X': 190.466, 'TenPercent_X': 47.173333333333325}
+Prediction: [5.7244253]
+Actual: 5.8
+
+Data: {'Max_X': 793.2033333333333, 'FiftyPercent_X': 438.81, 'TenPercent_X': 66.238}
+Prediction: [8.646278]
+Actual: 8.7
+
+Data: {'Max_X': 593.6066666666667, 'FiftyPercent_X': 278.8533333333333, 'TenPercent_X': 49.871}
+Prediction: [7.0272484]
+Actual: 7.0
+
+Data: {'Max_X': 520.7266666666666, 'FiftyPercent_X': 306.9266666666667, 'TenPercent_X': 62.774}
+Prediction: [6.4091525]
+Actual: 6.3
+
+Data: {'Max_X': 1023.6666666666666, 'FiftyPercent_X': 532.1833333333333, 'TenPercent_X': 99.5583333333333}
+Prediction: [10.064292]
+Actual: 10.1
+
+Data: {'Max_X': 1099.7, 'FiftyPercent_X': 529.5866666666667, 'TenPercent_X': 96.851}
+Prediction: [10.480373]
+Actual: 10.45
+
+Data: {'Max_X': 769.5, 'FiftyPercent_X': 350.56, 'TenPercent_X': 82.694}
+Prediction: [8.459218]
+Actual: 8.4
+
+Data: {'Max_X': 1057.2666666666669, 'FiftyPercent_X': 553.4166666666666, 'TenPercent_X': 111.27533333333334}
+Prediction: [10.277634]
+Actual: 10.15
+
+Data: {'Max_X': 579.1966666666666, 'FiftyPercent_X': 336.90666666666664, 'TenPercent_X': 80.307}
+Prediction: [6.9689426]
+Actual: 6.85
+
+Data: {'Max_X': 492.94, 'FiftyPercent_X': 228.53333333333333, 'TenPercent_X': 67.59266666666666}
+Prediction: [5.9598184]
+Actual: 6.0
+
+Data: {'Max_X': 517.8133333333334, 'FiftyPercent_X': 215.7, 'TenPercent_X': 64.52233333333334}
+Prediction: [6.15999]
+Actual: 6.35
